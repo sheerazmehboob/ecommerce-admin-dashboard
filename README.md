@@ -4,8 +4,8 @@
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/sheerazmehboob/admin-dashboard.git
-cd admin-dashboard
+git clone https://github.com/sheerazmehboob/ecommerce-admin-dashboard.git
+cd ecommerce-admin-dashboard
 ```
 
 ### 2. Install Dependencies
